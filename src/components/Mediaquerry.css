@@ -1,0 +1,183 @@
+@media (max-width: 639px){
+  .second .title{
+   font-size: 30px;
+   margin-top: 15px !important;
+   margin-right: 20px;
+  }
+ .d-flex{
+   margin-top: 10px;
+ }
+ 
+  .form-control{
+   width: 190px;
+   height: 40px;
+  }
+  .search{
+   width: 80px;
+   height: 36px;
+  }
+ }
+ 
+ @media (max-width: 481px){
+  html, body{
+   width: 100%;
+   height: 100%; 
+   padding: 0;
+   margin: 0;
+   overflow-x: hidden;
+  }
+ } 
+ 
+ 
+ @media (max-width:1000px){
+   .thirdone{
+ 
+ margin-right: 200px !important;
+   }
+   .thirdtwo{
+ 
+     margin-left: 200px !important;
+       }
+ }
+ 
+ @media (max-width:767px){
+   .thirdone{
+ 
+ margin-left: 150px !important;
+ width: 300px;
+ 
+   }
+   .thirdtwo{
+ 
+     margin-left: 80px !important;
+       }
+ 
+       .thirdthird{
+ 
+         margin-left: 80px !important;
+           }
+ 
+ }
+ 
+ 
+ @media (max-width:530px){
+ 
+ .thirdone{
+   margin-left: 70px !important;
+ }
+ 
+ .thirdtwo{
+ 
+   margin-left: 35px !important;
+   width: 350px !important;
+     }
+     .thirdthird{
+ 
+       margin-left: 50px !important;
+       width: 300px;
+         }
+ 
+ }
+ 
+ 
+ 
+ 
+ @media (max-width:1070px){
+ 
+ .thirdtwo{
+ width: 420px;
+ 
+ }
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ @media (max-width:1023px){
+ 
+ .thirdone{
+   margin-left: -300px;
+ }
+ 
+ 
+ 
+ .thirdtwo{
+   margin-left: 300px;
+ }
+ 
+ }
+ 
+ @media (max-width:639px){
+ 
+ .fourth{
+   margin-left: 80px !important;
+ 
+ 
+ }
+ 
+ }
+ 
+ @media (max-width:414px){
+  .title{
+   font-size: 20px !important;
+ }
+ .d-flex{
+   margin-left: -15px;
+   margin-top: 3px;
+ }
+ 
+ }
+ 
+ 
+ @media (max-width:414px){
+   .search{
+ width: 63px;
+ margin-left: -4px !important;
+   }
+   .fourth{
+   }
+ 
+ }
+ 
+ 
+ 
+ @media (max-width:375px){
+ .thirdone{
+ margin-left: 30px !important;
+ }
+ 
+ }
+ 
+ @media (max-width:540px){
+ .fourth{
+   margin-left: 130px !important;
+ }
+ .sub2{
+ margin-left: 20px;
+ }
+ .sub3{
+   margin-left: 20px;
+   }
+ 
+ }
+ 
+ 
+ 
+ @media (max-width:414px){
+   .fourth{
+     margin-left: 100px !important;
+   }
+  
+   
+   }
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
